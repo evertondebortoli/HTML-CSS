@@ -1,0 +1,18 @@
+@charset
+
+body{
+  background-color: aqua;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  color: blueviolet;
+}
+h2{
+  color: chartreuse;
+}
+
+p{
+  color: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
