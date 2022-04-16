@@ -1,2 +1,63 @@
-@charset "UTF-8"
 
+   /*
+   Em HTML id EM CSS É # (só pode um elemento)
+   EM HTML class EM CSS É . (pode vários elementos)
+
+   */
+
+   @import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap'); 
+
+body{
+    background-image: linear-gradient( to left,rgba(127, 224, 127, 0.637), rgba(48, 128, 48, 0.534), rgba(37, 173, 37, 0.596) ); rgba
+  }
+
+  h1{
+    text-align: center;
+
+  }
+
+
+  h1#principal {
+    color: #64940b;
+    text-align: center;
+    background-color: #c8bed1;
+    border-radius: 20PX;
+  }
+
+
+  h2{
+    color: #3e41f0;
+  }
+  .destaque{
+    
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .basico {
+  color: #008000;
+  font-weight: bold;
+  
+  }
+
+  .intermediario {
+  color: #ffff00b9;
+  font-weight: bold;
+  }  
+
+  .avancado{
+    color: #ff0000;
+    
+}
+
+
+p {  
+    text-align: justify;
+    color: #7e1313;
+    font-family: 'Send Flowers', cursive;
+    font-size: 1.5em; 
+}
+
+.jovem{
+    color: #751b1b;
+}
